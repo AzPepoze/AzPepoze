@@ -1,17 +1,1 @@
-<style>
-  .profile-section {
-    background-color: #f0f0f0;
-    padding: 20px;
-  }
-  .profile-heading {
-    color: #333;
-  }
-  .profile-description {
-    font-size: 16px;
-  }
-</style>
-
-<div class="profile-section">
-  <h2 class="profile-heading">test</h2>
-  <p class="profile-description">test2</p>
-</div>
+<a href="https://example.com" style="display: inline-block; padding: 10px; border-radius: 10px; background-image: linear-gradient(to right, #ff7e5f, #feb47b); color: white; text-decoration: none;">Test</a>
