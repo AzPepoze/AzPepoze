@@ -1,14 +1,3 @@
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+<p align="center">
+  <img width="500" src="https://media.tenor.com/492-Kwhg88sAAAAi/menhera-chan.gif">
+</p>
