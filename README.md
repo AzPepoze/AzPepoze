@@ -1,11 +1,17 @@
 <style>
-  .BG{
-     background:black;
-     padding:10px;
-     border-radius:10px;
-     border: 1px solid gray;
+  .profile-section {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  .profile-heading {
+    color: #333;
+  }
+  .profile-description {
+    font-size: 16px;
   }
 </style>
 
-<div class="BG">
+<div class="profile-section">
+  <h2 class="profile-heading">test</h2>
+  <p class="profile-description">test2</p>
 </div>
